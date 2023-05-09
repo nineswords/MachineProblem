@@ -1,4 +1,4 @@
-# Capstone Project
+
 ## Di-Tech: Forecasting Supply and Demand Gap for Didi
 
 
